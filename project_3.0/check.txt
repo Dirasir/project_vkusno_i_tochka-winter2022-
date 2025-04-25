@@ -1,0 +1,9 @@
+name: 5 за 200 count: 1 price: 199.0
+name: 1 за 500 count: 3 price: 1800.0
+name: стул count: 1 price: 500.0
+name: табуретка count: 1 price: 300.0
+name: салфетка count: 1 price: 10.0
+name: ложка count: 1 price: 15.0
+name: зубочистка count: 1 price: 5.0
+
+финальная стоимость: 2829.0
